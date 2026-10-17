@@ -1,0 +1,12 @@
+# Private keys and credentials
+*.pem
+*.ppk
+*.key
+.aws/
+credentials
+.env
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
